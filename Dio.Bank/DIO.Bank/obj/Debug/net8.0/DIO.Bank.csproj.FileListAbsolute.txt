@@ -1,0 +1,14 @@
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\bin\Debug\net8.0\DIO.Bank.exe
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\bin\Debug\net8.0\DIO.Bank.deps.json
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\bin\Debug\net8.0\DIO.Bank.runtimeconfig.json
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\bin\Debug\net8.0\DIO.Bank.dll
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\bin\Debug\net8.0\DIO.Bank.pdb
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\obj\Debug\net8.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\obj\Debug\net8.0\DIO.Bank.AssemblyInfoInputs.cache
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\obj\Debug\net8.0\DIO.Bank.AssemblyInfo.cs
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\obj\Debug\net8.0\DIO.Bank.csproj.CoreCompileInputs.cache
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\obj\Debug\net8.0\DIO.Bank.dll
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\obj\Debug\net8.0\refint\DIO.Bank.dll
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\obj\Debug\net8.0\DIO.Bank.pdb
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\obj\Debug\net8.0\DIO.Bank.genruntimeconfig.cache
+c:\Users\lucas.saladini\Desktop\Nova pasta\DIO.Bank\obj\Debug\net8.0\ref\DIO.Bank.dll
